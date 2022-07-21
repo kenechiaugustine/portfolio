@@ -16,6 +16,14 @@ const about = {
 
 const projects = [
   {
+    name: "PEIWA",
+    description:
+      'An Estate Management App, which will enable admin to manage PEIWA estate. I collaborated with Backend engineers to deliver this app.',
+    stack: ['PHP', 'Laravel', 'MySQL', 'HTML', 'CSS', 'Bootstrap', 'Javascript', 'jQuery'],
+    sourceCode: '#',
+    livePreview: '#',
+  },
+  {
     name: 'WhisperApp',
     description:
       'Whisper is a social and dating app that allows users find friends, build relationships and chat with each other. It is built with NodeJS, Express, and React. The mobile app was built with Dart and Flutter. Currently, it is still in development.',
