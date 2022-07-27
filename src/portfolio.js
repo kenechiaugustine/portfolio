@@ -40,14 +40,6 @@ const projects = [
     livePreview: 'https://laravel-listings.herokuapp.com/',
   },
   {
-    name: 'Tuzz',
-    description:
-      'A Fun and Awarding Application, where a user can choose a wild variety of games like Ludo, Whoot, Ayo and even Fantasy Premier League (FPL)',
-    stack: ['Flutter', 'Dart', 'NodeJS', 'ExpressJS', 'TypeScript'],
-    sourceCode: '#',
-    livePreview: '#',
-  },
-  {
     name: "Okonor's Crib",
     description:
       'An assessment app, which will enable students to read and practice exams by taking quizzes. I collaborated with UX designers, Frontend engineers and Backend engineers to deliver this app.',
@@ -55,6 +47,14 @@ const projects = [
     sourceCode: '#',
     livePreview: 'https://okonor-quiz-app.netlify.app/',
     // livePreview: 'https://okonor-admin-app.netlify.app/',
+  },
+  {
+    name: 'Tuzz',
+    description:
+      'A Fun and Awarding Application, where a user can choose a wild variety of games like Ludo, Whoot, Ayo and even Fantasy Premier League (FPL)',
+    stack: ['Flutter', 'Dart', 'NodeJS', 'ExpressJS', 'TypeScript'],
+    sourceCode: '#',
+    livePreview: '#',
   }
 ]
 
