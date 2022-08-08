@@ -24,20 +24,20 @@ const projects = [
     livePreview: 'http://peiwasites.com/',
   },
   {
-    name: 'WhisperApp',
-    description:
-      'Whisper is a social and dating app that allows users find friends, build relationships and chat with each other. It is built with NodeJS, Express, and React. The mobile app was built with Dart and Flutter. Currently, it is still in development.',
-    stack: ['NodeJS', 'ExpressJS', 'TypeScript', 'React', 'Dart', 'Flutter'],
-    sourceCode: '#',
-    livePreview: 'https://whisperapp.co.uk/',
-  },
-  {
     name: 'Laragigs',
     description:
       'Laragigs is a job listing app that allows users to share job openings. It is a web app that is built with Laravel  and MySQL. It is a fully functional app that allows authenticated users to create, read, update and delete job listings.',
     stack: ['PHP', 'Laravel', 'SQL', 'Tailwind'],
     sourceCode: 'https://github.com/kenechiaugustine/laravel-listings',
     livePreview: 'https://laravel-listings.herokuapp.com/',
+  },
+  {
+    name: 'WhisperApp',
+    description:
+      'Whisper is a social and dating app that allows users find friends, build relationships and chat with each other. It is built with NodeJS, Express, and React. The mobile app was built with Dart and Flutter. Currently, it is still in development.',
+    stack: ['NodeJS', 'ExpressJS', 'TypeScript', 'React', 'Dart', 'Flutter'],
+    sourceCode: '#',
+    livePreview: 'https://whisperapp.co.uk/',
   },
   {
     name: "Okonor's Crib",
