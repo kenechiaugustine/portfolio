@@ -45,8 +45,8 @@ const projects = [
       'An assessment app, which will enable students to read and practice exams by taking quizzes. I collaborated with UX designers, Frontend engineers and Backend engineers to deliver this app.',
     stack: ['NestJS', 'TypeScript', 'Postgres', 'React'],
     sourceCode: '#',
-    livePreview: 'https://okonor-quiz-app.netlify.app/',
-    // livePreview: 'https://okonor-admin-app.netlify.app/',
+    livePreview: 'https://okonorlistic.com/',
+    // livePreview: https://admin.okonorlistic.com/
   },
   {
     name: 'Tuzz',
