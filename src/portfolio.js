@@ -53,7 +53,7 @@ const projects = [
     description:
       'A Fun and Awarding Application, where a user can choose a wild variety of games like Ludo, Whoot, Ayo and even Fantasy Premier League (FPL)',
     stack: ['Flutter', 'Dart', 'NodeJS', 'ExpressJS', 'TypeScript'],
-    sourceCode: '#',
+    sourceCode: 'https://tuzzapp.com/',
     livePreview: 'https://tuzzapp.com/',
   }
 ]
