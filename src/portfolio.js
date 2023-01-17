@@ -29,7 +29,7 @@ const projects = [
       'Laragigs is a job listing app that allows users to share job openings. It is a web app that is built with Laravel  and MySQL. It is a fully functional app that allows authenticated users to create, read, update and delete job listings.',
     stack: ['PHP', 'Laravel', 'SQL', 'Tailwind'],
     sourceCode: 'https://github.com/kenechiaugustine/laravel-listings',
-    livePreview: 'https://laravel-listings.herokuapp.com/',
+    livePreview: 'https://laragigs.onrender.com/',
   },
   {
     name: 'WhisperApp',
