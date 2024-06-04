@@ -7,7 +7,7 @@ const about = {
   name: 'Kenechukwu Arionye',
   role: 'Software Engineer',
   description:
-    "I am a software engineer with a passion for building software that is user-friendly and easy to use. I'm valued for driving quality and consistency throughout all phases of software development. Collaborating effectively with Backend Engineers, Frontend Engineers and UI/UX Engineers.",
+    "A software engineer with a passion for building software that is user-friendly and easy to use. I'm valued for driving quality and consistency throughout all phases of software development. Collaborating effectively with Backend Engineers, Frontend Engineers and UI/UX Engineers.",
   resume:
     'https://docs.google.com/document/d/1xQJC2SRCvshd8p55IJlGdElhZDLRwJfu00GeuooQBuw/edit?usp=sharing',
   social: {
