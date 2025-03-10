@@ -1,8 +1,10 @@
-import { header } from '../../portfolio'
+import { header } from '../../data/portfolio'
 import Navbar from '../Navbar/Navbar'
 import './Header.css'
 
-const Header = () => {
+interface HeaderProps {}
+
+const Header: React.FC<HeaderProps> = () => {
   const { homepage, title } = header
 
   return (
